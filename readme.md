@@ -1,7 +1,7 @@
 
 # Reto
 
-A continuación, te presentamos tres ejercicios que nos gustaría que resolvieras como parte del proceso de evaluación:
+A continuación, dos ejercicios que nos gustaría que resolvieras como parte del proceso de evaluación:
 
 **Ejercicio 1 - Validación de Palabras Palíndromas:**
 
